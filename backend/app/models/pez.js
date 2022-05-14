@@ -1,4 +1,4 @@
-class Pescado{
+class Pez{
     constructor(id, nombre, nombre_cientifico, estatus, ubicacion, descripcion, imagen){
         this.id = id;
         this.nombre = nombre;
@@ -10,4 +10,4 @@ class Pescado{
     }
 }
 
-module.exports = Pescado;
+module.exports = Pez;
