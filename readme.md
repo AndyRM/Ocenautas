@@ -1,16 +1,9 @@
-# Repositorio del proyecto **OCEANAUTAS** para el hackaton
+# Repositorio del proyecto **OCEANAUTAS** 
 
 ---
-<p aling="center">
-    <img src="./assets/img/js.svg" alt="js" height='20px'/>
-    <img src="./assets/img/CSS.svg" alt="css" height='20px'/>
-    <img src="./assets/img/html.svg" alt="html" height='20px'/>
-    <img src="./assets/img/vue.svg" alt="vue" height='20px'/>
-    <img src="./assets/img/python.svg" alt="node" height='20px'/>
-</p>
-### Tecnologias usadas en el proyecto
 
-# Problematica
+
+## Problematica en el oceano
 
 Hablar del océano, es hablar de agua, de vida, el océano es vida y da vida a uno de los más grandes ecosistemas, alberga a alrededor de 230 000 especies marinas, la mayor parte de ellas del reino animal y el resto al de las plantas. Actualmente se está perdiendo el hábitat de estas especies, lo que afecta de manera significativa a la biodiversidad del océano, esto principalmente se debe a que las zonas costeras están muy cerca de la población humana quienes ponen en riesgo las condiciones necesarias para la supervivencia de las plantas y animales.
 
@@ -21,3 +14,17 @@ Entre las actividades que destruyen a los océanos se encuentra la pesca inmoder
 Como resultado de estas acciones tenemos una fuerte contaminación a los mares, lo que provoca que se formen las llamadas islas de plástico, la eutrofización y la falta de oxígeno, acidificación de los océanos y por último la pérdida de biodiversidad. Desgraciadamente esto ha provocado que varias especies se encuentren en peligro de extinción y al ir desapareciendo las mismas se provocaría una alteración en las comunidades de animales marinos.
 
 De aquí la importancia de que las personas conozcamos a aquellas especies que se encuentran en peligro de desaparecer para lograr tomar conciencia de la magnitud del problema de la contaminación que está en aumento y que a corto plazo tendrá repercusiones en cualquier ser vivo. México ocupa el primer lugar en materia de extinción de especies pues actualmente existen 665 especies amenazadas de las cuales hay 181 peces, 219 anfibios, 98 reptiles, 96 mamíferos y 71 aves. Es por esto que surge la gran preocupación en torno a este tema y se buscan siempre maneras de contribuir a concientizar a la población sobre todo lo que se está dañando y como cada día existe el riesgo de que perdamos a varias especies de nuestros ecosistemas.
+### Referencias
+* https://www.nationalgeographic.es/medio-ambiente/destruccion-del-habitat-marino
+* https://www.ecologiaverde.com/contaminacion-marina-causas-y-consecuencias-1518.html
+* https://www.lavanguardia.com/natural/20150119/54423764825/destruccion-vida-marina-sigue-los-pasos-de-la-terrestre.html
+
+---
+## Tecnologias usadas en el proyecto
+<p aling="center">
+    <img src="./assets/img/js.svg" alt="js" height='40px'/>
+    <img src="./assets/img/CSS.svg" alt="css" height='40px'/>
+    <img src="./assets/img/html.svg" alt="html" height='40px'/>
+    <img src="./assets/img/vue.svg" alt="vue" height='40px'/>
+    <img src="./assets/img/nodejs.svg" alt="node" height='40px'/>
+</p>
