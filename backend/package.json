@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node ./node_modules/jest/bin/jest.js"
   },
   "author": "Ocenautas",
   "license": "ISC",
