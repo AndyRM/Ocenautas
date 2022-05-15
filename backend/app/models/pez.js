@@ -8,7 +8,9 @@ class Pez{
         this.descripcion = descripcion;
         this.imagen = imagen;
     }
-
+    get getId(){
+        return this.id;
+    }
     get getNombre(){
         return this.nombre;
     }
