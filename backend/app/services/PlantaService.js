@@ -1,4 +1,4 @@
-const Planta = require('./../models/Planta');
+const Planta = require('./../models/planta');
 
 class PlantaService {
     static create(id, nombre, nombre_cientifico, estatus, ubicacion, descripcion, imagen) {
