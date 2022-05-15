@@ -1,3 +1,4 @@
+<script src="../path/to/flowbite/dist/flowbite.js"></script>
 const express = require ('express');
 const morgan = require('morgan');
 const {engine} = require('express-handlebars');
