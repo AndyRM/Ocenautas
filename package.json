@@ -4,7 +4,8 @@
   "description": "---\r <img src=\"./assets/img/js.svg\" align=\"left\" alt=\"js\" height='80px'/>\r <img src=\"./assets/img/CSS.svg\" align=\"left\" alt=\"css\" height='80px'/>\r <img src=\"./assets/img/html.svg\" align=\"left\" alt=\"html\" height='80px'/>\r <img src=\"./assets/img/vue.svg\" align=\"left\" alt=\"vue\" height='80px'/>\r <img src=\"./assets/img/python.svg\" align=\"left\" alt=\"python\" height='80px'/>",
   "main": "index.js",
   "scripts": {
-    "test": "jest --verbose"
+    "test": "jest --verbose",
+    "dev": "nodemon src"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,8 @@
     "nodemon": "^2.0.16"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3"
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
   }
 }
